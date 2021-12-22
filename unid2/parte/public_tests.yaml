@@ -1,0 +1,9 @@
+- input: |
+    5.8
+    10.02
+    8.5
+  name: exemplo
+  output: |
+    Soma: 24.32
+    Parte Inteira: 24
+    Parte Decimal: 0.32

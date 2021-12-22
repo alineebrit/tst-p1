@@ -1,0 +1,17 @@
+- input: |
+    a c
+    d j
+    k p
+    q z
+    Cazaquistão
+  output: |
+    volume 1
+
+- input: |
+    A C
+    D M
+    N T
+    U Z
+    ofídio
+  output: |
+    volume 3

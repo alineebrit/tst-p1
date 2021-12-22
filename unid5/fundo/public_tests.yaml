@@ -1,0 +1,10 @@
+- input: |
+    2.30
+    2.30
+    10.40
+    5.60
+    1.20
+  output: |
+    Saldo total do FIS: R$20.60.
+    Média das contribuições: R$5.15.
+

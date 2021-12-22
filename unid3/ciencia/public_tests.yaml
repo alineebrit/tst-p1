@@ -1,0 +1,24 @@
+- input: |
+    600
+    120
+  output: |
+    Todas as condições satisfeitas.
+
+- input: |
+    500
+    321
+  output: |
+    Condição ENEM não satisfeita.
+
+- input: |
+    673
+    20
+  output: |
+    Condição CRÉDITOS não satisfeita.
+
+- input: |
+    500
+    410
+  output: |
+    Nenhuma condição satisfeita.
+

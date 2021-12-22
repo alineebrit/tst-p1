@@ -1,0 +1,9 @@
+- input: |
+    2
+  name: exemplo
+  output: |
+    Para x = 2
+    ---
+    |x| = 2
+    |x - 2| = 0
+    |x / 2| = 1.00

@@ -1,0 +1,5 @@
+numero_adultos = int(input())
+numero_de_criancas = int(input())
+preço_do_ingresso_do_cinema = float(input())
+total_a_ser_pago = (numero_adultos * preço_do_ingresso_do_cinema) + ((numero_de_criancas * preço_do_ingresso_do_cinema)/2)
+print(f"Total: R$ {total_a_ser_pago:.2f}")

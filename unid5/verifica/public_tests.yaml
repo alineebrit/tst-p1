@@ -1,0 +1,16 @@
+- input: |
+    5
+    10.10
+    saque 5.00
+    depósito 10.00
+    saque 10.10
+    depósito 50.00
+    depósito 120.00
+    saque 10.00
+    saque 10.00
+    saque 15.00
+    saque 20.00
+  output: |
+    Operação inválida: saque 20.00.
+    Seu saldo é R$ 140.00.
+

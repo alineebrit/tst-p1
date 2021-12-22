@@ -1,0 +1,12 @@
+- input: |
+    500.00
+    560.00
+  output: |
+    Valor atual? Novo valor? Reajuste de 12.0%
+
+- input: |
+    500.00
+    545.00
+  output: |
+    Valor atual? Novo valor? Reajuste de 9.0%
+

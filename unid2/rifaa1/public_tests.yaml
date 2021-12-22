@@ -1,0 +1,14 @@
+- input: |
+    240
+    12
+    60
+    12
+    36
+  output: |
+    Em média, os 4 amigos venderam 30.00 bilhete(s)
+    120 bilhete(s) sem vender (50.00%)
+    Rafael vendeu 12 bilhete(s) (5.00%)
+    Gabriela vendeu 60 bilhete(s) (25.00%)
+    Mateus vendeu 12 bilhete(s) (5.00%)
+    Larissa vendeu 36 bilhete(s) (15.00%)
+

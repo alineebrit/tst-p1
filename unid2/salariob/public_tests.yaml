@@ -1,0 +1,9 @@
+- input: |
+    Antonio
+    15
+    678.00
+    20.00
+  output: |
+    O Salário Bruto de Antonio é de R$ 3012.00
+    O Salário Líquido de Antonio é de R$ 2048.16
+

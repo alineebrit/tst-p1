@@ -1,0 +1,18 @@
+- input: |
+    m 1.89
+    ****
+  output: |
+    Homem: peso ideal é 79.4
+
+- input: |
+    F 1.60
+    ****
+  output: |
+    Mulher: peso ideal é 54.7
+
+- input: |
+    M 1.60
+    ****
+  output: |
+    Homem: peso ideal é 58.3
+

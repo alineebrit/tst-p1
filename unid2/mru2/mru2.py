@@ -1,0 +1,5 @@
+s0 = float(input())
+v = float(input())
+t = float(input())
+st = s0 + (v * t)
+print(f"{st:.2f}")

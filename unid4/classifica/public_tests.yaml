@@ -1,0 +1,9 @@
+- input: |
+    Prog1
+  output: |
+    <P> nao
+    <r> nao
+    <o> sim
+    <g> nao
+    <1> nao
+

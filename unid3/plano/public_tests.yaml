@@ -1,0 +1,21 @@
+- input: |
+    1.5
+    -2
+  output: |
+    (1.5, -2.0)
+    no quarto quadrante
+
+- input: |
+    3
+    0
+  output: |
+    (3.0, 0.0)
+    sobre o eixo dos x
+
+- input: |
+    0
+    0
+  output: |
+    (0.0, 0.0)
+    na origem
+

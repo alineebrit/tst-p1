@@ -1,0 +1,31 @@
+- input: |
+    200
+    2
+    3
+    40
+    5
+    1.5
+    12
+  output: |
+    Orçamento? R$ Número de adultos? Número de crianças? Preço da pizza? R$ Preço do refrigerante? R$ Preço do estacionamento? R$ Preço do ingresso do cinema? R$ ========== Despesas do cinema ==========
+    Alimentacao: R$ 45.00
+    Cinema: R$ 52.00
+    Custo médio por pessoa: R$ 19.70
+    Total: 98.50
+    Saldo após passeio: 101.50
+
+- input: |
+    220.50
+    3
+    1
+    60.0
+    12.0
+    6.0
+    20.0
+  output: |
+    Orçamento? R$ Número de adultos? Número de crianças? Preço da pizza? R$ Preço do refrigerante? R$ Preço do estacionamento? R$ Preço do ingresso do cinema? R$ ========== Despesas do cinema ==========
+    Alimentacao: R$ 72.00
+    Cinema: R$ 78.00
+    Custo médio por pessoa: R$ 39.00
+    Total: 156.00
+    Saldo após passeio: 64.50

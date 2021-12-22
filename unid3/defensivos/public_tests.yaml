@@ -1,0 +1,12 @@
+- input: |
+    Herbicida
+    30
+  output: |
+    9 Herbicida(s). 900.00 reais.
+
+- input: |
+    Fungicida
+    7
+  output: |
+    1 Fungicida(s). 320.00 reais.
+

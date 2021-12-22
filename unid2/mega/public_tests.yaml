@@ -1,0 +1,8 @@
+- input: |
+    12345
+    76400
+    10
+  name: test_name
+  output: |
+    03-05-10
+

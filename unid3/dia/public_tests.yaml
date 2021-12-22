@@ -1,0 +1,14 @@
+- input: |
+    segunda 15
+  output: |
+    fraco
+
+- input: |
+    terça 50
+  output: |
+    atípico
+
+- input: |
+    sábado 70
+  output: |
+    normal

@@ -1,0 +1,14 @@
+- input: |
+    42.195
+    119
+    40
+  output: |
+    O pace foi de 2min50s.
+
+- input: |
+    16.01
+    85
+    56
+  output: |
+    O pace foi de 5min22s.
+

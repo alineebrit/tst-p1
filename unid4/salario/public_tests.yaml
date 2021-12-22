@@ -1,0 +1,12 @@
+- input: |
+    1994
+    1996
+    68.93
+    109.41
+    112.90
+  output: |
+    1 ano(s) abaixo (33% dos anos)
+    média dos anos abaixo: U$ 68.93
+    2 ano(s) acima (67% dos anos)
+    média dos anos acima: U$ 111.16
+

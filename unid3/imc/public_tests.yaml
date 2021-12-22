@@ -1,0 +1,14 @@
+- input: |
+    78.0
+    1.75
+  output: |
+    IMC = 25.5
+    Classificação = Sobrepeso
+
+- input: |
+    73
+    1.72
+  output: |
+    IMC = 24.7
+    Classificação = Saudável
+

@@ -1,0 +1,40 @@
+- input: |
+    10.0
+    7.0
+  output: |
+    Mastery Learning
+    Cálculo da nota na unidade
+
+    Nota? Nota? Média: 8.5 (aprovado)
+    Penalização: 0.0
+
+    ===
+    Notas válidas: 10.0 e 7.0
+    Média parcial na unidade: 8.5
+    Penalizações: 0.0
+    Média final na unidade: 8.5
+
+- input: |
+    4.0
+    6.0
+    3.0
+    7.0
+  output: |
+    Mastery Learning
+    Cálculo da nota na unidade
+
+    Nota? Nota? Média: 5.0 (cursando)
+    Penalização: 0.0
+
+    Nota? Média: 5.0 (cursando)
+    Penalização: 0.5
+
+    Nota? Média: 6.5 (aprovado)
+    Penalização: 1.0
+
+    ===
+    Notas válidas: 7.0 e 6.0
+    Média parcial na unidade: 6.5
+    Penalizações: 1.0
+    Média final na unidade: 5.5
+

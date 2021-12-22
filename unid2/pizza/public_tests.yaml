@@ -1,0 +1,8 @@
+- input: |
+    9
+    4
+    32.5
+  name: exemplo
+  output: |
+    3 fatia(s) para cada um e sobra(m) 5 fatia(s)
+    Valor total: R$ 130.00

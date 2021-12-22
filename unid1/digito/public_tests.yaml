@@ -1,0 +1,6 @@
+- input: |
+    8533
+  name: exemplo
+  output: |
+    8 3
+

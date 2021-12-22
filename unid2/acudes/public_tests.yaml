@@ -1,0 +1,18 @@
+- input: |
+    411686287
+    5.5
+    85000
+  name: test_name
+  output: |
+    capacidade? percentual hoje? gasto diário? volume: 22642745.79
+    dias restantes: 266
+
+- input: |
+    411686287
+    5.5
+    55000
+  name: test_name
+  output: |
+    capacidade? percentual hoje? gasto diário? volume: 22642745.79
+    dias restantes: 411
+

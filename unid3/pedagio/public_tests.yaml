@@ -1,0 +1,16 @@
+- input: |
+    moto
+  output: |
+    Veículo não cadastrado.
+
+- input: |
+    Motocicleta
+  output: |
+    Valor a pagar: R$ 5.70.
+
+- input: |
+    Ônibus
+    2
+  output: |
+    Valor a pagar: R$ 22.80.
+
